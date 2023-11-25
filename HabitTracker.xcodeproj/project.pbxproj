@@ -47,7 +47,6 @@
 		FA87B2842B10E81B005ACE6E = {
 			isa = PBXGroup;
 			children = (
-				FAE753382B1228D500A89450 /* ActivityDetailView.swift */,
 				FA87B28F2B10E81B005ACE6E /* HabitTracker */,
 				FA87B28E2B10E81B005ACE6E /* Products */,
 			);
@@ -111,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				FA87B2922B10E81B005ACE6E /* ContentView.swift */,
+				FAE753382B1228D500A89450 /* ActivityDetailView.swift */,
 				FA87B2AB2B111F3A005ACE6E /* AddNewActivityView.swift */,
 				FA87B2A92B111C09005ACE6E /* ActivityRowView.swift */,
 			);
